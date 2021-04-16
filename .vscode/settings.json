@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/aae0c8cd-12b5-44cf-87e7-ae434f86f704/resourceGroups/appsvc_windows_centralus_basic/providers/Microsoft.Web/sites/devopsdotnetazure",
+    "appService.deploySubpath": "devops"
+}
